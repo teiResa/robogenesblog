@@ -1,0 +1,7 @@
+1. **Progress bar of scroll % of page (look under the navbar)**
+
+ref:
+https://www.outsystems.com/blog/css-vertical-align.html
+
+2. **have blog "blog.robogenes.github.io" or "robogenes.github.io/blog" **
+  so that the blog is appropriately connected to my personal website.. but not as a distraction
