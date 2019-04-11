@@ -5,3 +5,6 @@ https://www.outsystems.com/blog/css-vertical-align.html
 
 2. **have blog "blog.robogenes.github.io" or "robogenes.github.io/blog" **
   so that the blog is appropriately connected to my personal website.. but not as a distraction
+
+3. Subscription banner pop-up (optional) 
+      go ahead and ref outsystems.com, they have one there. 
